@@ -1,0 +1,32 @@
+const sampleData = [
+    { main_application: "(SGX) SGCONNECT", count: 240, lastAnomalyDate: "2024-08-23" },
+    { main_application: "(FAE) FAR EXO", count: 147, lastAnomalyDate: "2024-08-22" },
+    { main_application: "(FIT) FITS", count: 94, lastAnomalyDate: "2024-08-21" },
+    { main_application: "(PEA) EFTS", count: 94, lastAnomalyDate: "2024-08-20" },
+    { main_application: "(5BA) MULTIPASS", count: 55, lastAnomalyDate: "2024-08-19" },
+    { main_application: "(ONE) X-ONE", count: 43, lastAnomalyDate: "2024-08-18" },
+    { main_application: "(IRP) IRON", count: 34, lastAnomalyDate: "2024-08-17" },
+    { main_application: "(LFX) SHARP FX", count: 32, lastAnomalyDate: "2024-08-16" },
+    { main_application: "(HWY) HIGHWAY", count: 16, lastAnomalyDate: "2024-08-15" },
+    { main_application: "(GLJ) GLOSS JAPAN", count: 4, lastAnomalyDate: "2024-08-14" },
+    { main_application: "(TPE) ALISE", count: 2, lastAnomalyDate: "2024-08-13" },
+    { main_application: "(CMTMS) CMTMS", count: 0, lastAnomalyDate: "2024-08-12" },
+    { main_application: "(CTI) Credit Suite Titan", count: 0, lastAnomalyDate: "2024-08-11" },
+    { main_application: "(GEY) GEYSIR", count: 0, lastAnomalyDate: "2024-08-10" },
+    { main_application: "(GOT) GATEWAY, ORCHESTRATION AND TRADE", count: 0, lastAnomalyDate: "2024-08-09" },
+    { main_application: "(GR8) GREATSERVER", count: 0, lastAnomalyDate: "2024-08-08" },
+    { main_application: "(MCF) MCF - ECHANGES DE FLUX DE CASH MANAGEMENT", count: 0, lastAnomalyDate: "2024-08-07" },
+    { main_application: "(MCY) Mercury FIC", count: 0, lastAnomalyDate: "2024-08-06" },
+    { main_application: "(MFX) TS_MM", count: 0, lastAnomalyDate: "2024-08-05" },
+    { main_application: "(MTX) MATRIX", count: 0, lastAnomalyDate: "2024-08-04" },
+    { main_application: "(PLT) PLATON", count: 0, lastAnomalyDate: "2024-08-03" },
+    { main_application: "(TIV) Titan-invoice", count: 0, lastAnomalyDate: "2024-08-02" },
+    { main_application: "(TMB) TransactiS aMAS & BRoadcaSt (MARS)", count: 0, lastAnomalyDate: "2024-08-01" },
+    { main_application: "(PNM) ISTHMUS", count: 0, lastAnomalyDate: "2024-07-31" },
+    { main_application: "(RNE) RISK ONE RT", count: 0, lastAnomalyDate: "2024-07-30" },
+    { main_application: "(TIS) SOLSTIS", count: 0, lastAnomalyDate: "2024-07-29" },
+    { main_application: "(TVA) EOLE", count: 0, lastAnomalyDate: "2024-07-28" },
+  ];
+  
+  export default sampleData;
+  
